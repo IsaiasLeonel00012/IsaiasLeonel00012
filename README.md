@@ -4,6 +4,10 @@
 
 Soy Isaías , un apasionado por la tecnología y la prograación
 
+##Tecnologías y Habilidades 
+
+Python, C#
+
 <!--
 **IsaiasLeonel00012/IsaiasLeonel00012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
